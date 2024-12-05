@@ -1,0 +1,12 @@
+text,sentiment
+"I love this product! It's amazing!",positive
+"This is the worst experience I've ever had.",negative
+"Absolutely fantastic service, I will come back again.",positive
+"I hate waiting for deliveries.",negative
+"This is okay, not the best but not the worst.",neutral
+"I'm very satisfied with my purchase.",positive
+"It was a terrible decision to buy this.",negative
+"Great value for the price!",positive
+"I don't think I would recommend this.",negative
+"Simply delightful and a joy to use.",positive
+"helooo hiii.",negative
